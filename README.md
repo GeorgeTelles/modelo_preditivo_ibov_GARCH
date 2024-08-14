@@ -30,4 +30,7 @@ Para prever essa volatilidade, o projeto utiliza o modelo GARCH, que é uma exte
 - **arch:** Biblioteca para modelagem GARCH e outras técnicas de volatilidade.
 - **matplotlib e seaborn:** Visualização de dados e resultados.
 
+![Descrição da Imagem](https://github.com/GeorgeTelles/modelo_preditivo_ibov_GARCH/blob/387b0d3ce8491dc3b5a0482fbb34114372fcaf26/newplot.png)
+
+
 
