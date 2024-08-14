@@ -5,6 +5,8 @@
 
 # Prevendo a Volatilidade do IBOV
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/GeorgeTelles/modelo_preditivo_ibov_GARCH/blob/main/Previs%C3%A3o_Volatilidade_GARCH.ipynb)
+
 Este projeto tem como objetivo prever a volatilidade do Índice Bovespa (IBOV) utilizando o modelo GARCH (Generalized AutoRegressive Conditional Heteroskedasticity). O modelo GARCH é amplamente utilizado em finanças para modelar e prever a volatilidade dos retornos de ativos financeiros.
 
 ## Sobre o Projeto
